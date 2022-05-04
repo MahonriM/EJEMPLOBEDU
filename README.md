@@ -1,3 +1,3 @@
 # EJEMPLOBEDU
 README.md
-En este proyecto se hablara
+En este proyecto se utiliza PHP y MySQL
